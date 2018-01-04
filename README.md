@@ -2,4 +2,4 @@
 My First Repository
 Hello,
 
-I am Swetha, Vijaya Raghavan. I am a Neophyte :)
+I am Swetha, Vijaya Raghavan. I am a avid learner :)
